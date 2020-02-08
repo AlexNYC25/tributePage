@@ -1,0 +1,31 @@
+
+body{
+    background-color: #8479e6;
+}
+
+#pageContent{
+    background-color: #473ac4;
+    margin-left: 10px;
+}
+
+#tributeImageArea{
+    background-color: #8479e6;
+    width: 85%;
+    margin: 5%;
+}
+
+#tributeImage{
+    width: 90%;
+    height: 75%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 5%;
+}
+
+#tributeImageCaption {
+    bottom: 0;
+    right: 0;
+    margin-bottom: 5%;
+    margin-top: 0;
+
+}
