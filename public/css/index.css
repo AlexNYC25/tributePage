@@ -7,20 +7,20 @@ body{
     border-radius: 10px;
 }
 
-#mainTitle{
+#title{
     margin-left: 25%;
     margin-right: 25%;
     margin-bottom: 0;
     width: 40%
 }
 
-#pageContent{
+#main{
     background-color: #473ac4;
     margin-left: 10px;
     font-size: 16addpx;
 }
 
-#tributeImageArea{
+#img-div{
     background-color: #8479e6;
     width: 85%;
     margin: 5%;
@@ -35,7 +35,7 @@ body{
     margin-top: 5%;
 }
 
-#tributeImageCaption {
+#img-caption {
     bottom: 0;
     right: 0;
     margin-bottom: 5%;
@@ -56,6 +56,6 @@ body{
     margin-left: 5%;
 }
 
-#externalPage{
+#tribute-link{
     font-size: 24px;
 }
